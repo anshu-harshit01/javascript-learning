@@ -45,9 +45,29 @@
 // console.log(typeof convert);
 // console.log(convert);
 
-let num = 2
-let inString = String(num)
-console.log(typeof(inString));
-console.log(inString);
+// let num = 2
+// let inString = String(num)
+// console.log(typeof(inString));
+// console.log(inString);
 
+// ###################Operations In javascript#########
+let num = 12
+let negNum = -num
+console.log(negNum)
 
+// let str1 = "Anshu"
+// let str2 = "harshit"
+// let str3 = str1+" "+str2//this will make a gap b/w str1 and str2
+// //let str3 - str1+str2
+// console.log(str3);
+// console.log(2+2); // output = 4
+// console.log(2-2); //output = 4
+// console.log(2*2); // output = 4
+// console.log(2**3); // This will give output = 8 because two 
+//asterisk represents power means 2^3 = 8
+console.log(+true) //output = 1 or console.log(true+)
+console.log(-true) //output = -1
+console.log(+"")//output = 0
+let itr = 32
+console.log(itr++);
+console.log(itr);
