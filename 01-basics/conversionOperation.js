@@ -49,3 +49,5 @@ let num = 2
 let inString = String(num)
 console.log(typeof(inString));
 console.log(inString);
+
+
